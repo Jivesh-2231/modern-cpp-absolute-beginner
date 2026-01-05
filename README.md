@@ -1,6 +1,6 @@
 ## Purpose
 This Repository documents my study of "Modern C++ for Absolute Beginners".
-The book offers good explaination and program examples.
+The book offers good explanation and program examples.
 Built for having solid foundations.
 
 ## Approach
