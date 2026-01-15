@@ -7,4 +7,7 @@ project(modern_cpp_absolute_beginners
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
-set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
+add_executable(ch01_main
+    src/ch01/main.cpp
+)
