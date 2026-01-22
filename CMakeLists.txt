@@ -17,6 +17,6 @@ add_executable(ch01_source
 )
 
 # Chapter 5
-add_executable(ch05_main
+add_executable(ch05_p1
     src/ch05/p1.cpp
 )
