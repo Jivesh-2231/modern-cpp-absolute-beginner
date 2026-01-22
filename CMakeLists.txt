@@ -20,3 +20,8 @@ add_executable(ch01_source
 add_executable(ch05_p1
     src/ch05/p1.cpp
 )
+
+# Chapter 7
+add_executable(ch07_main
+    src/ch07/main.cpp
+)
