@@ -31,3 +31,15 @@ add_executable(ch08_main
 add_executable(ch10_main
     src/ch10/main.cpp
 )
+# Chapter 11
+add_executable(ch11_main
+    src/ch11/main.cpp
+)
+# Chapter 12
+add_executable(ch12
+    src/ch12/main.cpp
+)
+# Chapter 13
+add_executable(ch13
+    src/ch13/string.cpp
+)
