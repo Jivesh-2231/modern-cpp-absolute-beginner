@@ -25,3 +25,8 @@ add_executable(ch05_p1
 add_executable(ch07_main
     src/ch07/main.cpp
 )
+
+# Chapter 8
+add_executable(ch08_main
+    src/ch08/main.cpp
+)
