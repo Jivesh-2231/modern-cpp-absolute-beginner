@@ -15,18 +15,19 @@ add_executable(ch04_main
 add_executable(ch04_source
     src/ch04/source.cpp
 )
-
 # Chapter 5
 add_executable(ch05_p1
     src/ch05/p1.cpp
 )
-
 # Chapter 7
 add_executable(ch07_main
     src/ch07/main.cpp
 )
-
 # Chapter 8
 add_executable(ch08_main
     src/ch08/main.cpp
+)
+# Chapter 10
+add_executable(ch10_main
+    src/ch10/main.cpp
 )
