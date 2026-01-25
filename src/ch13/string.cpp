@@ -43,4 +43,30 @@ int main(){
         std::getline(std::cin,s);
         std::cout << s;
     }
+    std::cout << "\n\n";
+    {
+        // Apointer to a string
+        std::string s = "Hello World";
+        std::cout << s.c_str();
+    }
+    std::cout << "\n\n";
+    {
+        //Substring
+        std::string s ="Hello World";
+        std::string mysubstring = s.substr(6,5);
+        std::cout << "the substring of s : " << mysubstring;
+    }
+    std::cout << "\n\n";
+    {
+        //finding a substring
+        std::string s = "This is the Hello World String";
+        std::string string_to_find = "Hello";
+        std::string::size_type found = s.find(string_to_find);
+
+        if (found != std::string::npos){
+            std::cout << "substring has been found at position : " << found;
+        }else{
+            std::cout << "substring was not found.";
+        }
+    }
 }
