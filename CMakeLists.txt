@@ -43,3 +43,6 @@ add_executable(ch12
 add_executable(ch13
     src/ch13/string.cpp
 )
+add_executable(ch13_probs
+    src/ch13/probs.cpp
+)
