@@ -13,4 +13,5 @@ Chapter 14 ---> Automatics Type Deduction
 Chapter 15 ---> Exercises
 Chapter 16 ---> Statements
 Chapter 17 ---> Constant
-Chapter 18 ---> 
+Chapter 18 ---> Exercise 
+Chapter 19 ---> Functions
