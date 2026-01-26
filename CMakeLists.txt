@@ -53,3 +53,10 @@ add_executable(ch16_1
 add_executable(ch16_2
     src/ch16/loops_2.cpp
 )
+# Chapter 19
+add_executable(ch19
+    src/ch19/func.cpp
+)
+add_executable(ch19_1
+    src/ch19/prob_1.cpp
+)
