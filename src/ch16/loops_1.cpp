@@ -51,12 +51,12 @@ int main(){
             std::cout << "no";
         }else{
             int x;
-            std::cout << x;
+            std::cin >> x;
             int previous = x;
 
             bool ok = true; // flag
             for(int i = 1; i<n; i++){
-                std::cout << x;
+                std::cin >> x;
                 if(x <= previous){
                     ok = false;
                 }
