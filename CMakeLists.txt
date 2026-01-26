@@ -60,3 +60,12 @@ add_executable(ch19
 add_executable(ch19_1
     src/ch19/prob_1.cpp
 )
+add_executable(ch19_2
+    src/ch19/prob_2.cpp
+)
+add_executable(ch19_3
+    src/ch19/prob_3.cpp
+)
+add_executable(ch19_4
+    src/ch19/prob_4.cpp
+)
