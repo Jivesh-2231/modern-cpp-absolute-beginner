@@ -15,3 +15,7 @@ Chapter 16 ---> Statements
 Chapter 17 ---> Constant
 Chapter 18 ---> Exercise 
 Chapter 19 ---> Functions
+Chapter 20 ---> Exercises
+Chapter 21 ---> Scope and Lifetime
+Chapter 22 ---> Exercises
+Chapter 23 ---> Classes - Introduction
