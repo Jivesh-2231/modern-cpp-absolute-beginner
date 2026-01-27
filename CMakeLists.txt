@@ -69,3 +69,13 @@ add_executable(ch19_3
 add_executable(ch19_4
     src/ch19/prob_4.cpp
 )
+# Chapter 21
+add_executable(ch21_new
+    src/ch21/new.cpp
+)
+add_executable(ch21_1
+    src/ch21/prob_1.cpp
+)
+add_executable(ch21_2
+    src/ch21/prob_2.cpp
+)
