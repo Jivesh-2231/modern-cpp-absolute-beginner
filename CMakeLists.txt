@@ -79,3 +79,16 @@ add_executable(ch21_1
 add_executable(ch21_2
     src/ch21/prob_2.cpp
 )
+# Chapter 23
+add_executable(ch23_class
+    src/ch23/class.cpp
+)
+add_executable(ch23_cons
+    src/ch23/constructor.cpp
+)
+add_executable(ch23_copy
+    src/ch23/copy.cpp
+)
+add_executable(ch23_move
+    src/ch23/move.cpp
+)
