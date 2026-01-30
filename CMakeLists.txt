@@ -92,3 +92,7 @@ add_executable(ch23_copy
 add_executable(ch23_move
     src/ch23/move.cpp
 )
+# Chapter 25
+add_executable(ch25_inherit
+    src/ch25/inheritance.cpp
+)
