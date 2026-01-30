@@ -19,3 +19,5 @@ Chapter 20 ---> Exercises
 Chapter 21 ---> Scope and Lifetime
 Chapter 22 ---> Exercises
 Chapter 23 ---> Classes - Introduction
+Chapter 24 ---> Exercises
+Chapter 25 ---> Classes - Inheritance and Polymorphism
