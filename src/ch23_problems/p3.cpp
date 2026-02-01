@@ -23,6 +23,30 @@ public:
         }
     }
 
+    //move constructor here
+    Buffer(Buffer&& other) noexcept : size{other.size}, data{other.data} {
+        other.data=nullptr;
+        other.size=0;
+    }
+
+    //move assignment operator
+    Buffer& operator=(Buffer&& other) {
+        if(this == &other){
+            return *this;
+        }
+
+        delete[] data;
+
+        size=other.size;
+        data=other.data;
+
+        other.data=nullptr;
+        other.size=0;
+
+        return *this;
+
+    }
+
     ~Buffer() {
         delete[] data;
         std::cout << "Buffer destroyed\n";
