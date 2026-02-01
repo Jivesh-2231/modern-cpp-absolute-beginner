@@ -99,6 +99,12 @@ add_executable(ch23_p1
 add_executable(ch23_p2
     src/ch23_problems/p2.cpp
 )
+add_executable(ch23_p3
+    src/ch23_problems/p3.cpp
+)
+add_executable(ch23_p4
+    src/ch23_problems/p4.cpp
+)
 # Chapter 25
 add_executable(ch25_inherit
     src/ch25/inheritance.cpp
