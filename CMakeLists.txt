@@ -106,3 +106,15 @@ add_executable(ch23_p3
 add_executable(ch25_inherit
     src/ch25/inheritance.cpp
 )
+add_executable(ch25_p1
+    src/ch25/p1.cpp
+)
+add_executable(ch25_p2
+    src/ch25/p2.cpp
+)
+add_executable(ch25_p3
+    src/ch25/p3.cpp
+)
+add_executable(ch25_p4
+    src/ch25/p4.cpp
+)
