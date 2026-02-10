@@ -122,3 +122,13 @@ add_executable(ch25_p4
 add_executable(ch26_static
     src/ch26/static.cpp
 )
+# Chapter 28
+add_executable(ch28_Temps
+    src/ch28/Temps.cpp
+)
+add_executable(ch28_p1
+    src/ch28/p1.cpp
+)
+add_executable(ch28_p2
+    src/ch28/p2.cpp
+)

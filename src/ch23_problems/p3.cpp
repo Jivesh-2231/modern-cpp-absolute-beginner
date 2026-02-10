@@ -32,7 +32,7 @@ public:
     //move assignment operator
     Buffer& operator=(Buffer&& other) {
         if(this == &other){
-            return *this;
+            return *this; 
         }
 
         delete[] data;
