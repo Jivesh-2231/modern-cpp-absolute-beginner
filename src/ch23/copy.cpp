@@ -29,7 +29,7 @@ int main(){
     b = a; // making a copy a and putting it in b (where a and b both exists)
 }
 
-/*
+
 // Here is the program for owning the pointer in a good way though the name of the file is still bad.cpp
 //in short, if destructor is not created especially for pointers, there may occur two pointer while copying and
 //each will behave like this 
@@ -37,9 +37,7 @@ int main(){
 //so when the value is deleted, the porgram performs a delete for each pointer ---> creating a double delete
 // it can show undefined behaviour leading to an error or crash and multiple bugs as well.
 
-#include<iostream>
-using std::cout, std::endl;
-
+/*
 class Good{
         int* p;
     public:
