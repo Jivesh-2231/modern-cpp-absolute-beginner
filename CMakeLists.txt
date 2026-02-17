@@ -132,3 +132,7 @@ add_executable(ch28_p1
 add_executable(ch28_p2
     src/ch28/p2.cpp
 )
+# revision chapter
+add_executable(revision_p1
+    src/revision_till_ch28/p1.cpp
+)
