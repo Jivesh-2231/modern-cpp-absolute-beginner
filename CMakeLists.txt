@@ -136,3 +136,13 @@ add_executable(ch28_p2
 add_executable(revision_p1
     src/revision_till_ch28/p1.cpp
 )
+# Chapter 29
+add_executable(ch29_enum
+    src/ch29/enum.cpp
+)
+add_executable(ch29_p1
+    src/ch29/p1.cpp
+)
+add_executable(ch29_p2
+    src/ch29/p2.cpp
+)
