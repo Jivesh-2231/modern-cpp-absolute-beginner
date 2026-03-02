@@ -21,3 +21,9 @@ Chapter 22 ---> Exercises
 Chapter 23 ---> Classes - Introduction
 Chapter 24 ---> Exercises
 Chapter 25 ---> Classes - Inheritance and Polymorphism
+Chapter 26 ---> Exercises
+Chapter 27 ---> The Static Specifier
+Chapter 28 ---> Templates
+Chapter 29 ---> Enumerations
+Chapter 30 ---> Exercises
+Chapter 31 ---> Organizing Code
