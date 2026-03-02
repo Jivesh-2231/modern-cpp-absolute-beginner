@@ -146,3 +146,7 @@ add_executable(ch29_p1
 add_executable(ch29_p2
     src/ch29/p2.cpp
 )
+add_executable(ch31_main
+    src/ch31/math.cpp
+    src/ch31/main.cpp
+)
