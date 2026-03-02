@@ -19,3 +19,7 @@ void next(OrderState state) {
             break;
     }
 }
+
+int main(){
+    std::cout << "The Code works";
+}
