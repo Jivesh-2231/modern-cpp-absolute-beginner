@@ -150,3 +150,6 @@ add_executable(ch31_main
     src/ch31/math.cpp
     src/ch31/main.cpp
 )
+add_executable(ch33_pint
+    src/ch33/pint.cpp
+)
