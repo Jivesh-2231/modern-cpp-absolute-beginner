@@ -27,3 +27,6 @@ Chapter 28 ---> Templates
 Chapter 29 ---> Enumerations
 Chapter 30 ---> Exercises
 Chapter 31 ---> Organizing Code
+Chapter 32 ---> Exercises
+Chapter 33 ---> Conversions
+Chapter 34 ---> Exceptions
